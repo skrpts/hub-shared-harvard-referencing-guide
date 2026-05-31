@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "5fabdd4f-b4a2-4a12-bd77-56bef791af0c"
+name: "harvard-referencing-guide"
+display_name: "Harvard Referencing Guide"
+description: "Reference guide for Harvard citation style"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-harvard-referencing-guide"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
