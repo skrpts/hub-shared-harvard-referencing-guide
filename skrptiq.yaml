@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "5fabdd4f-b4a2-4a12-bd77-56bef791af0c"
+id: "668a18be-1d19-4247-930e-832f7cc05627"
 name: "harvard-referencing-guide"
 display_name: "Harvard Referencing Guide"
 description: "Reference guide for Harvard citation style"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
