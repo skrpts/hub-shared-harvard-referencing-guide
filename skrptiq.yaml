@@ -3,7 +3,7 @@ id: "668a18be-1d19-4247-930e-832f7cc05627"
 name: "harvard-referencing-guide"
 display_name: "Harvard Referencing Guide"
 description: "Reference guide for Harvard citation style"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
